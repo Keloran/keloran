@@ -6,7 +6,7 @@
 - macOS user
 
 ### Various links
-- [Blog](https://www.keloran.dev)
+- [Blog](https://keloran.dev)
 - [LinkedIn](https://www.linkedin.com/in/keloran)
 
 ### Random Stats
